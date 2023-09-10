@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  "title": "Cancel Cancer",
+  "title": "THE CANCER CURE",
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -54,7 +54,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Cancel Cancer',
+        title: 'THE CANCER CURE',
         // items: [
         //   {
         //     type: 'docSidebar',
